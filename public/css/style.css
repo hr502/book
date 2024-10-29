@@ -1,0 +1,119 @@
+body {
+    color: #333;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.form {
+    margin-bottom: 30px;
+}
+
+.headline {
+    font-size: 15px;
+    line-height: 5px;
+}
+
+.icon {
+    border-radius: 2px;
+    color: white;
+    font-size: 12px;
+    padding: 3px;
+}
+
+.required {
+    background-color: red;
+}
+
+.admin {
+    background-color: blue;
+}
+
+.member {
+    background-color: green;
+}
+
+
+.input {
+    border: 1px #888 solid;
+    box-sizing: border-box;
+    font-size: 12px;
+    height: 24px;
+    margin-bottom: 8px;
+    width: 200px;
+}
+
+.select {
+    border: 1px #888 solid;
+    box-sizing: border-box;
+    font-size: 12px;
+    height: 24px;
+    width: 200px;
+}
+
+.btn {
+    background-color: #fff;
+    height: 48px;
+    width: 200px;
+}
+
+.cancel {
+    border: 1px blue solid;
+    color: blue;
+}
+
+.submit {
+    border: 1px orange solid;
+    color: orange;
+}
+
+.err {
+    color: red;
+    font-size: 12px;
+}
+
+.link {
+    background-color: #fff;
+    border: 1px blue solid;
+    box-sizing: border-box;
+    color: blue;
+    height: 48px;
+    text-decoration: none;
+    width: 200px;
+}
+
+.item-image {
+    height: 300px;
+}
+
+.thumbnail {
+    height: 100px;
+}
+
+.mini-btn {
+    align-items: center;
+    border-radius: 4px;
+    display: flex;
+    font-size: 12px;
+    height: 24px;
+    justify-content: center;
+    width: 50px;
+}
+
+table {
+    border: 2px #888 solid;
+}
+
+.available {
+    background-color: pink;
+}
+
+.reservation {
+    background-color: coral;
+}
+
+.lending {
+    background-color: aquamarine;
+}
